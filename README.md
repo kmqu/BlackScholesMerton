@@ -1,4 +1,4 @@
-# Black Scholes Merton
+# Black Scholes Merton Implementation & Analysis
 Black Scholes Merton python implementation
 
 BlackScholesMerton.py includes a ready-to-use implementation of the two most common solutions to the BSM equation. 
