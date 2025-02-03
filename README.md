@@ -6,3 +6,7 @@ BSMOverview.ipynb is an jupyter notebook showcasing various applications of this
 
 For local rendering of BSMOverview.ipynb, follow the below link.
 https://nbviewer.org/github/kmqu/Black_Scholes_Merton/blob/main/BSMOverview.ipynb
+
+Reference: John C. Hull - Options, Futures, and Other Derivatives
+
+Please reach out if you notice any mistakes or have suggestions on further improvements.
